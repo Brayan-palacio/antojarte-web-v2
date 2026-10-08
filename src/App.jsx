@@ -55,8 +55,8 @@ const MENU_DATA = [
         tipo: "dulce",
         badge: "Más vendida",
         descripcion: "Nutella + fresas + banano + galleta Oreo triturada.",
-        imagenThumb: "/images/crepa-tentacion.jpg",
-        imagenFull: "/images/crepa-tentacion.jpg"
+        imagenThumb: "/images/crepa-tentacion.webp",
+        imagenFull: "/images/crepa-tentacion.webp"
       },
       {
         id: "c4",
@@ -64,8 +64,8 @@ const MENU_DATA = [
         precio: 15000,
         tipo: "dulce",
         descripcion: "Nutella + fresas + selección premium de ingredientes de la casa.",
-        imagenThumb: "/images/crepa-especial.jpg",
-        imagenFull: "/images/crepa-especial.jpg"
+        imagenThumb: "/images/crepa-especial.webp",
+        imagenFull: "/images/crepa-especial.webp"
       },
       {
         id: "c5",
@@ -73,8 +73,8 @@ const MENU_DATA = [
         precio: 13000,
         tipo: "salado",
         descripcion: "Pollo desmechado bañado en salsa especial de la casa con queso derretido.",
-        imagenThumb: "/images/crepa-pollo-thumb.jpg",
-        imagenFull: "/images/crepa-pollo-full.jpg"
+        imagenThumb: "/images/crepa-pollo-thumb.webp",
+        imagenFull: "/images/crepa-pollo-full.webp"
       }
     ]
   },
@@ -90,8 +90,8 @@ const MENU_DATA = [
         precio: 10000,
         tipo: "dulce",
         descripcion: "Waffle crocante cubierto de Nutella abundante y fresas frescas.",
-        imagenThumb: "/images/waffle-fresa.jpg",
-        imagenFull: "/images/waffle-fresa.jpg"
+        imagenThumb: "/images/waffle-fresa.webp",
+        imagenFull: "/images/waffle-fresa.webp"
       },
       {
         id: "w2",
@@ -99,8 +99,8 @@ const MENU_DATA = [
         precio: 12000,
         tipo: "dulce",
         descripcion: "Combinación de fresas, banano, duraznos en almíbar y baño de chocolate.",
-        imagenThumb: "/images/waffle-frutal.jpg",
-        imagenFull: "/images/waffle-frutal.jpg"
+        imagenThumb: "/images/waffle-frutal.webp",
+        imagenFull: "/images/waffle-frutal.webp"
       },
       {
         id: "w3",
@@ -108,8 +108,8 @@ const MENU_DATA = [
         precio: 15000,
         tipo: "dulce",
         descripcion: "Nutella + mezcla frutal abundante + detalles artesanales de la casa.",
-        imagenThumb: "/images/waffle-especial.jpg",
-        imagenFull: "/images/waffle-especial.jpg"
+        imagenThumb: "/images/waffle-especial.webp",
+        imagenFull: "/images/waffle-especial.webp"
       },
       {
         id: "w4",
@@ -118,8 +118,8 @@ const MENU_DATA = [
         tipo: "salado",
         badge: "Recomendado",
         descripcion: "Irresistible combinación salada con ingredientes seleccionados de la casa.",
-        imagenThumb: "/images/waffle-ranchero.jpg",
-        imagenFull: "/images/waffle-ranchero.jpg"
+        imagenThumb: "/images/waffle-ranchero.webp",
+        imagenFull: "/images/waffle-ranchero.webp"
       }
     ]
   },
@@ -135,8 +135,8 @@ const MENU_DATA = [
         precio: 7000,
         tipo: "salado",
         descripcion: "Jamón superior, queso gratinado y la tradicional salsa especial Antojarte.",
-        imagenThumb: "/images/sandwich-clasico.jpg",
-        imagenFull: "/images/sandwich-clasico.jpg"
+        imagenThumb: "/images/sandwich-clasico.webp",
+        imagenFull: "/images/sandwich-clasico.webp"
       },
       {
         id: "s2",
@@ -144,8 +144,8 @@ const MENU_DATA = [
         precio: 12500,
         tipo: "salado",
         descripcion: "Pollo desmechado jugoso, queso derretido, maíz tierno y salsa especial.",
-        imagenThumb: "/images/sandwich-pollo.jpg",
-        imagenFull: "/images/sandwich-pollo.jpg"
+        imagenThumb: "/images/sandwich-pollo.webp",
+        imagenFull: "/images/sandwich-pollo.webp"
       }
     ]
   },
@@ -161,8 +161,8 @@ const MENU_DATA = [
         precio: 7000,
         tipo: "dulce",
         descripcion: "Bebida espumosa y fría de Milo tradicional.",
-        imagenThumb: "/images/milo-frio.jpg",
-        imagenFull: "/images/milo-frio.jpg"
+        imagenThumb: "/images/milo-frio.webp",
+        imagenFull: "/images/milo-frio.webp"
       },
       {
         id: "b2",
@@ -170,8 +170,8 @@ const MENU_DATA = [
         precio: 10000,
         tipo: "dulce",
         descripcion: "Cremosa malteada preparada con helado y fresas naturales.",
-        imagenThumb: "/images/malteada-fresa.jpg",
-        imagenFull: "/images/malteada-fresa.jpg"
+        imagenThumb: "/images/malteada-fresa.webp",
+        imagenFull: "/images/malteada-fresa.webp"
       },
       {
         id: "b3",
@@ -181,8 +181,8 @@ const MENU_DATA = [
         descripcion: "Soda refrescante. Elige tu sabor preferido: Frutos rojos o Lulo.",
         esSoda: true,
         saboresSoda: ["Frutos rojos", "Lulo"],
-        imagenThumb: "/images/sodas-saborizadas.jpg",
-        imagenFull: "/images/sodas-saborizadas.jpg"
+        imagenThumb: "/images/sodas-saborizadas.webp",
+        imagenFull: "/images/sodas-saborizadas.webp"
       },
       {
         id: "b4",
@@ -190,8 +190,8 @@ const MENU_DATA = [
         precio: 4000,
         tipo: "otro",
         descripcion: "Lata / Botella personal fría.",
-        imagenThumb: "/images/coca-cola.jpg",
-        imagenFull: "/images/coca-cola.jpg"
+        imagenThumb: "/images/coca-cola.webp",
+        imagenFull: "/images/coca-cola.webp"
       }
     ]
   }
