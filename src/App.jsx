@@ -192,6 +192,15 @@ const MENU_DATA = [
         descripcion: "Lata / Botella personal fría.",
         imagenThumb: "/images/coca-cola.webp",
         imagenFull: "/images/coca-cola.webp"
+      },
+      {
+        id: "b5",
+        nombre: "Jugo de Zapote",
+        precio: 8000,
+        tipo: "dulce",
+        descripcion: "Refrescante jugo natural de zapote, preparado al momento con leche o agua.",
+        imagenThumb: "/images/bebidas/jugo-zapote.webp",
+        imagenFull: "/images/bebidas/jugo-zapote.webp"
       }
     ]
   }
