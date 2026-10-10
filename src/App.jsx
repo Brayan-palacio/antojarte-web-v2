@@ -146,6 +146,15 @@ const MENU_DATA = [
         descripcion: "Pollo desmechado jugoso, queso derretido, maíz tierno y salsa especial.",
         imagenThumb: "/images/sandwich-pollo.webp",
         imagenFull: "/images/sandwich-pollo.webp"
+      },
+      {
+        id: "s3",
+        nombre: "Burrito de Pollo",
+        precio: 11500,
+        tipo: "salado",
+        descripcion: "Burrito de pollo acompañado de salsa rosada.",
+        imagenThumb: "/images/burrito-pollo.webp",
+        imagenFull: "/images/burrito-pollo.webp"
       }
     ]
   },
