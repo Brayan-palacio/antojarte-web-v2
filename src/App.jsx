@@ -199,8 +199,8 @@ const MENU_DATA = [
         precio: 8000,
         tipo: "dulce",
         descripcion: "Refrescante jugo natural de zapote, preparado al momento con leche o agua.",
-        imagenThumb: "/images/bebidas/jugo-zapote.webp",
-        imagenFull: "/images/bebidas/jugo-zapote.webp"
+        imagenThumb: "/images/jugo-zapote.webp",
+        imagenFull: "/images/jugo-zapote.webp"
       }
     ]
   }
